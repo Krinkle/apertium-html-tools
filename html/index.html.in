@@ -360,7 +360,7 @@
                             <fieldset>
                                 <legend>
                                     <span data-text="APy_Sandbox_Help"></span>
-                                    <a href="http://wiki.apertium.org/wiki/Apertium-apy" target="_blank" class="float-right" rel="noopener">
+                                    <a href="https://wiki.apertium.org/wiki/Apertium-apy" target="_blank" class="float-right" rel="noopener">
                                         <abbr title="Apertium API in Python">APy</abbr>
                                         <i class="fa fa-question-circle"></i>
                                     </a>
@@ -511,7 +511,7 @@
                         </div>
                         <div class="row">
                             <div class="d-inline-block my-o" id="creativeCommonsLicence">
-                                <a href="http://creativecommons.org/licenses/by-sa/3.0/">
+                                <a href="https://creativecommons.org/licenses/by-sa/3.0/">
                                     <img alt="Creative Commons licence" data-src="./img/cc-by-sa-3.0-88x31.png">
                                 </a>
                             </div>
@@ -590,7 +590,7 @@
                         <p data-text="Contact_Us"></p>
 
                         <div class="center-block" id="infoModalApertiumLogoContainer">
-                            <a href="http://www.apertium.org/" target="_blank" rel="noopener">
+                            <a href="https://www.apertium.org/" target="_blank" rel="noopener">
                                 <img alt="Apertium" data-src="./img/Apertium.png" class="center-block mw-100" id="infoModalApertiumLogo">
                             </a>
                         </div>

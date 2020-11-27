@@ -32,7 +32,7 @@ def load_conf(filename):
         conf.read_file(f)
     conf_APY = conf['APY']  # noqa: N806
     result = {
-        'HTML_URL'                       : conf_APY.get('HTML_URL', fallback='http://www.apertium.org'),
+        'HTML_URL'                       : conf_APY.get('HTML_URL', fallback='https://www.apertium.org'),
         'APY_URL'                        : conf_APY.get('APY_URL', fallback='http://apy.projectjj.com'),
 
         'SUBTITLE'                       : conf_APY.get('SUBTITLE', fallback=None),

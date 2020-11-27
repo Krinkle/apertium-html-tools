@@ -180,7 +180,7 @@ if (!String.prototype.trim) {
   };
 }
 
-// From: http://stackoverflow.com/a/221297/1266600
+// From: https://stackoverflow.com/a/221297/1266600
 if (!Date.now) {
     Date.now = function() { return new Date().getTime(); };
 }

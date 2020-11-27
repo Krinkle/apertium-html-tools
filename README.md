@@ -58,10 +58,10 @@ Run `pip install -r requirements-dev.txt` to get development dependencies.
 [CircleCI][7] runs tests and generates build artifacts including
 a live copy of Html-tools using `config.conf.example`.
 
-[1]: http://wiki.apertium.org/wiki/Apertium-html-tools
-[2]: http://apertium.org
-[3]: http://wiki.apertium.org/wiki/Apertium-apy
-[4]: http://wiki.apertium.org/wiki/ScaleMT
-[5]: http://wiki.apertium.org/wiki/Apertium-html-tools
+[1]: https://wiki.apertium.org/wiki/Apertium-html-tools
+[2]: https://apertium.org
+[3]: https://wiki.apertium.org/wiki/Apertium-apy
+[4]: https://wiki.apertium.org/wiki/ScaleMT
+[5]: https://wiki.apertium.org/wiki/Apertium-html-tools
 [6]: https://www.docker.com/
 [7]: https://circleci.com/
